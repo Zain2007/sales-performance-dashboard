@@ -10,5 +10,4 @@ Excel** to identify sales performance by market, quarter, category, customer, mo
 ![Project Preview](Sales_Dashboard.jpeg)
 
 ## Source Data
-
-![Source Data](Sales Dataset.xlsx)
+- <a Herf="https://github.com/Zain2007/sales-performance-dashboard/blob/main/Sales%20Dataset.xlsx">Dataset</a>
