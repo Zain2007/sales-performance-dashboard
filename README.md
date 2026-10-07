@@ -36,6 +36,8 @@ Excel** to identify sales performance by market, quarter, category, customer, mo
 ## Dashboard Overview
 The dashboard offers key views including sales performance by market, quarterly sales analysis, top categories, top customers (overall and by sales), top models, sales by business segment, sales by colour, and sales by region, all supported by interactive filters for year, region, subregion, and colour.
 
+![](https://github.com/Zain2007/sales-performance-dashboard/blob/main/Sales_Dashboard.jpeg)
+
 ## Key Performance Indicators (KPIs)
 | KPI | Value |
 |---|---|
